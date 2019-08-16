@@ -1,0 +1,8 @@
+.taskField {
+    margin: 10px auto;
+}
+
+.taskField__title {
+    margin: 20px auto 30px;
+    text-align: center;
+}

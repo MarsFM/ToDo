@@ -1,0 +1,15 @@
+.taskItem {
+    width: 400px;
+    margin: 0px auto;
+}
+
+.text {
+    width: 300px;
+    padding: 20px;
+    border-top: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
+}
+
+.active {
+    text-decoration: line-through;
+}
